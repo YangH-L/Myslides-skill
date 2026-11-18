@@ -1,0 +1,10 @@
+interface:
+  display_name: "Myslides-skill"
+  short_description: "学术汇报 Slides、高对比科研配图与置顶口播备注规范"
+  icon_small: "./assets/myslides-icon.svg"
+  icon_large: "./assets/myslides-icon.svg"
+  brand_color: "#0B2E4F"
+  default_prompt: "请使用 $myslides-skill 规范制作或润色本次学术汇报幻灯片、科研配图与置顶口播讲者备注。"
+
+policy:
+  allow_implicit_invocation: true
